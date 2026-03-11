@@ -1,8 +1,8 @@
 {
-  "name": "Cares Attendance Monitoring",
-  "short_name": "Cares Attendance",
-  "start_url": "/attendance/",
-  "scope": "/attendance/",
+  "name": "Cares Task Management",
+  "short_name": "Cares Task Management",
+  "start_url": "/verbose-bassoon/",
+  "scope": "/verbose-bassoon/",
   "display": "fullscreen",
   "background_color": "#0f172a",
   "theme_color": "#0b5d1e",
